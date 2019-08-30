@@ -1,4 +1,4 @@
-# compton-lectures-2019
+# Compton Lectures (Fall 2019)
 
 Lecture notes and course materials for the Fall 2019 Compton Lectures at the University of Chicago.
 This material is free for public use, but please cite any material as
