@@ -1,5 +1,7 @@
 # Compton Lectures (Fall 2019)
 
+**INCLUDE POSTER IMAGE**
+
 Lecture notes and course materials for the Fall 2019 Compton Lectures at the University of Chicago.
 This material is free for public use, but please cite any material as
 
@@ -16,3 +18,8 @@ A syllabus is available [here](syllabus.pdf) and lecture notes are available for
   * Nov 9:  [The Physics of Neutron Stars (as seen with GWs)](lecture7)
   * Nov 16: [Testing General Relativity with Gravitational Waves](lecture8)
   * Nov 23: [Gravitational Waves over the Next 40 Years](lecture9)
+
+References and suggested further reading are included within each lecture's notes.
+We provide the entire bibliography below for convenience.
+
+  * **LIST THESE GROUPED BY TOPIC**
